@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTransSolution", "MobileTransSolution\MobileTransSolution.csproj", "{D37A7669-E051-48A5-A423-2B8F7157C8FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTransWebServer", "MobileTransWebServer\MobileTransWebServer.csproj", "{804D88BA-77CA-4685-A5E2-E0C218E9BC06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D37A7669-E051-48A5-A423-2B8F7157C8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D37A7669-E051-48A5-A423-2B8F7157C8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D37A7669-E051-48A5-A423-2B8F7157C8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804D88BA-77CA-4685-A5E2-E0C218E9BC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804D88BA-77CA-4685-A5E2-E0C218E9BC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804D88BA-77CA-4685-A5E2-E0C218E9BC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804D88BA-77CA-4685-A5E2-E0C218E9BC06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
