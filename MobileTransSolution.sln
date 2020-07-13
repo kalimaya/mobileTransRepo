@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTransSolution", "MobileTransSolution\MobileTransSolution.csproj", "{D37A7669-E051-48A5-A423-2B8F7157C8FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTransWebserver", "MobileTransWebserver\MobileTransWebserver.csproj", "{9754C46A-406D-4CEC-9CD5-7FCCCE94A610}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTrans.Webserver", "MobileTransWebserver\MobileTrans.Webserver.csproj", "{9754C46A-406D-4CEC-9CD5-7FCCCE94A610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
